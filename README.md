@@ -40,8 +40,6 @@ Run the following commands to approve and deposit the minted NFTs from Ethereum 
 npx hardhat run scripts/approveDeposit.js --network sepolia
 ```
 
-## Authors
-
 
 ## License
 
